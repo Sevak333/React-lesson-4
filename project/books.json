@@ -1,0 +1,52 @@
+{
+    "books": [
+        {
+            "id": 101,
+            "title": "Psychology",
+            "price": 30,
+            "photo": "https://m.media-amazon.com/images/I/71EMksUtDML._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 102,
+            "title": "Poetry",
+            "price": 23,
+            "photo": "https://m.media-amazon.com/images/I/71vTizEz8aL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 103,
+            "title": "Literature",
+            "price": 18,
+            "photo": "https://m.media-amazon.com/images/I/71PxSVND4ZS._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id": 104,
+            "title": "Ecology",
+            "price": 12.5,
+            "photo": "https://m.media-amazon.com/images/I/71CqfaLkxmL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 105,
+            "title": "Design",
+            "price": 90,
+            "photo": "https://m.media-amazon.com/images/I/71exg5HRkxL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 106,
+            "title": "Math",
+            "price": 20,
+            "photo": "https://m.media-amazon.com/images/I/71hcmeR1QIL._AC_UF350,350_QL80_.jpg"
+        },
+        {
+            "id": 107,
+            "title": "Philosophy",
+            "price": 12,
+            "photo": "https://m.media-amazon.com/images/I/71zJpcPjHHL._AC_UF350,350_QL80_.jpg"
+        },
+        {
+            "id": 108,
+            "title": "Politics",
+            "price": 31,
+            "photo": "https://m.media-amazon.com/images/I/71Djhpa55cL._AC_UF350,350_QL80_.jpg"
+        }
+    ]
+}
